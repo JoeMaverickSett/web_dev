@@ -78,3 +78,8 @@ abbr {
     border-bottom: dotted;
     cursor: help;
 }
+
+p.footer-img {
+    clear: right;
+    margin-left: 30%;
+}
