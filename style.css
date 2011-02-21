@@ -43,8 +43,18 @@ div.nav:before {
     font-weight: bold;
 }
 
-.nav a {
+.nav a  {
     color: black;
+}
+
+.nav a:hover {
+    background-color: black;
+    color: green;
+}
+
+.nav a:active {
+    color: black;
+    background-color: white;
 }
 
 h2 {
