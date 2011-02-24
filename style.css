@@ -63,7 +63,6 @@ h2 {
     color: green;
     clear: right;
     margin-left: 10px;
-    padding-left: 95px;
 }
 
 ul {
@@ -82,4 +81,11 @@ abbr {
 p.footer-img {
     clear: right;
     margin-left: 30%;
+}
+
+table {
+    padding: 0px 0px 0px 100px;
+    color: green;
+    clear: right;
+    margin: 0px 0px 0px 10px;
 }
